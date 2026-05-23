@@ -1,5 +1,7 @@
 # Release Log
 
+- 2026-05-23: Released musicdl v2.12.1 — for users in mainland China, Kuwo Music song downloads now support higher audio quality; added several member-only interfaces; optimized the search interface for some supported platforms so that it no longer appears frozen while waiting for search results.
+
 - 2026-05-22: Released musicdl v2.12.0 — improved third-party API support across multiple platforms, including VIP-account handling and cookie-free fallback calls; added music search, playlist parsing, and download support for MOOV Music, plus search and downloads for Alger Music.
 
 - 2026-05-16: Released musicdl v2.11.10 — emergency fix for Migu Music becoming invalid issues, ensuring access to at least 320 kbps files and restoring lossless audio via member cookies.
