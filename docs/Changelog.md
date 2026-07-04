@@ -1,5 +1,7 @@
 # Release Log
 
+- 2026-07-04: Released musicdl v2.13.0 — perform routine maintenance on several commonly used clients.
+
 - 2026-06-24: Released musicdl v2.12.9 — fixed and cleaned up a large number of unavailable third-party interfaces, and added many new parsing interfaces with VIP account support, including QQ Music, Kuwo, TIDAL, Qobuz, and others. Also fixed bugs on platforms such as NetEase Cloud Music.
 
 - 2026-06-21: Released musicdl v2.12.8 — updated third-party API integrations for Deezer, YouTube, Spotify, and Qobuz; fixed the GDStudio music client and upgraded it to the latest API algorithm.
